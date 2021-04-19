@@ -8,6 +8,7 @@ public class Question1 {
 		System.out.println("( xx )");
 		System.out.println("( >¡Ú");
 		
+		System.out.println("Have a Good Time");
 	}
 
 }

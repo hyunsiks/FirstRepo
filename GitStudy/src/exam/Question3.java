@@ -7,6 +7,7 @@ public class Question3 {
 		int apple = 13;
 		System.out.println(apple / 10 + 1);
 		
+		System.out.println("BASKET!!!");
 	}
 
 }
