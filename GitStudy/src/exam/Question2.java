@@ -7,6 +7,8 @@ public class Question2 {
 		System.out.println(Math.random());
 		
 		System.out.println("Random!!");
+		
+		System.out.println("첫번째 커밋");
 	}
 
 }
