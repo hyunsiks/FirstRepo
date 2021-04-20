@@ -12,6 +12,8 @@ public class Question1 {
 		
 		System.out.println("Branch A 생성기념으로 업데이트");
 		System.out.println("Branch A 를 한번더 커밋");
+		
+		System.out.println("reset hard 시도중");
 	}
 
 }
