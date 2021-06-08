@@ -6,14 +6,16 @@ public class Question1 {
 		
 		System.out.println(" /)/) ");
 		System.out.println("( xx )");
-		System.out.println("( >¡Ú");
+		System.out.println("( >ï¿½ï¿½");
 		
 		System.out.println("Have a Good Time");
 		
-		System.out.println("Branch A »ý¼º±â³äÀ¸·Î ¾÷µ¥ÀÌÆ®");
-		System.out.println("Branch A ¸¦ ÇÑ¹ø´õ Ä¿¹Ô");
+		System.out.println("Branch A ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®");
+		System.out.println("Branch A ï¿½ï¿½ ï¿½Ñ¹ï¿½ï¿½ï¿½ Ä¿ï¿½ï¿½");
 		
-		System.out.println("reset hard ½ÃµµÁß");
+		System.out.println("reset hard ï¿½Ãµï¿½ï¿½ï¿½");
+		System.out.println();
+		System.out.println("ë©”ë¡±");
 	}
 
 }
